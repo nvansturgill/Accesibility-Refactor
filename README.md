@@ -1,42 +1,18 @@
-# 01 HTML CSS Git: Code Refactor
+# Accessible Code Refactor
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+## Assignment Description
+Refactor given codebase for ADA compliance  
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+*Note: This project is the [first assignment of the Technology Career Program June 2020 Cohort](https://github.com/nvansturgill/week01HW/blob/master/README.md)*  
 
-> Always leave the code you are editing a little cleaner than you found it.
+## Learning Objective  
+[Understand the meaning and usage of semantic HTML elements](https://github.com/nvansturgill/nvsActivities/blob/master/01-HTML-Git-CSS/README.md)  
+> * Build and style static webpages with semantic HTML and CSS
+> * Implement best practices and standards when structuring HTML files using nested elements, indentation, comments, and line breaks
+> * Implement CSS styling via class, id and element selectors using external stylesheets, inline styles and embedded style tags
+> * Explain the "cascading" in Cascading Style Sheets and implement the box model for HTML elements
+> * Explain the value of version control and use Git workflow to initialize projects, track changes, and host via remote server
+> * Perform common commands via the command line to interface with the operating system, such as navigating the file tree and creating and deleting files and directories
+> * Execute live deployment using GitHub Pages  
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
-## Acceptance Criteria
-
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
+## Applied Resources
