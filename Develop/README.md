@@ -14,3 +14,5 @@ Refactor given codebase for ADA compliance
 > * Explain the value of version control and use Git workflow to initialize projects, track changes, and host via remote server
 > * Perform common commands via the command line to interface with the operating system, such as navigating the file tree and creating and deleting files and directories
 > * Execute live deployment using GitHub Pages  
+
+## Applied Resources
