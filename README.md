@@ -21,3 +21,6 @@ Sites used for reference throughout project
 * [Mozilla Developer Network’s *HTML Accessibility article*](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) for ADA compliance  
 
 * [Mozilla Developer Network’s *HTML Element Reference*](https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Content_sectioning) for researching semantic elements and use cases  
+
+
+* [*DevDocs API Documentation*](https://devdocs.io/) for HTML, CSS, and Git terminology and use cases  
