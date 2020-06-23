@@ -16,3 +16,4 @@ Refactor given codebase for ADA compliance
 > * Execute live deployment using GitHub Pages  
 
 ## Applied Resources
+Sites used for reference throughout project  
