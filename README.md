@@ -24,3 +24,5 @@ Sites used for reference throughout project
 
 
 * [*DevDocs API Documentation*](https://devdocs.io/) for HTML, CSS, and Git terminology and use cases  
+
+* [*Markdown Basic Syntax Guide*](https://www.markdownguide.org/basic-syntax/) for learning README markdown syntax  
