@@ -17,3 +17,5 @@ Refactor given codebase for ADA compliance
 
 ## Applied Resources
 Sites used for reference throughout project  
+
+* [Mozilla Developer Network’s *HTML Accessibility article*](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML) for ADA compliance  
